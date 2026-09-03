@@ -19,6 +19,10 @@ whole.
 - 📐 [kickoff](https://github.com/romain-nicod/kickoff) carries the rules
   themselves: golden rules, definition of ready and done, code hygiene, secret
   handling. Open them before you take my word for any of this.
+- 🧰 [claude-pm-skills](https://github.com/romain-nicod/claude-pm-skills)
+  is the work itself, made executable: auditing an idea before anyone builds
+  it, holding a backlog to an admission test, writing minutes that survive the
+  room.
 - ⚒️ [Skill Forge](https://forge.ai-gmented.pm) turns a five-minute
   questionnaire into a Claude skill fitted to your own context. No account, no
   API key, nothing leaves your browser.
@@ -32,11 +36,14 @@ whole.
 | Repository | What it is |
 |---|---|
 | [kickoff](https://github.com/romain-nicod/kickoff) | A project starting kit: method documents, GitHub scaffolding, and scripts that turn a specification into a populated board |
+| [claude-pm-skills](https://github.com/romain-nicod/claude-pm-skills) | Five Claude skills that do project and product management work, each asking you for your context instead of carrying someone else's |
 | [skill-forge](https://github.com/romain-nicod/skill-forge) | The Claude skill generator behind [forge.ai-gmented.pm](https://forge.ai-gmented.pm). Static, bilingual, no backend |
 | [rails-ready](https://github.com/romain-nicod/rails-ready) | A Rails 8 application template that starts where a project actually starts |
 | [vibecoding-fasttracker](https://github.com/romain-nicod/vibecoding-fasttracker) | A handover kit that teaches a beginner's AI to hold the method while it writes the code |
+| [ereader-reencode](https://github.com/romain-nicod/ereader-reencode) | Re-encodes illustrated books so an E Ink reader turns pages without stalling. The one that is here for its own sake |
 
-All four are MIT. They are the method I would hand a client, published in full.
+Five are MIT, one is CC BY 4.0. They are the method I would hand a client,
+published in full.
 
 ### Elsewhere
 
