@@ -42,7 +42,8 @@ whole.
 | [vibecoding-fasttracker](https://github.com/romain-nicod/vibecoding-fasttracker) | A handover kit that teaches a beginner's AI to hold the method while it writes the code |
 | [ereader-reencode](https://github.com/romain-nicod/ereader-reencode) | Re-encodes illustrated books so an E Ink reader turns pages without stalling. The one that is here for its own sake |
 
-Five are MIT, one is CC BY 4.0. They are the method I would hand a client,
+All six are CC BY 4.0: reuse them, adapt them, sell what you build with them,
+and keep the credit visible. They are the method I would hand a client,
 published in full.
 
 ### Elsewhere

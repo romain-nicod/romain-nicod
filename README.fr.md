@@ -43,8 +43,9 @@ résultat vérifié. Les dépôts ci-dessous sont cette méthode, publiée en en
 | [vibecoding-fasttracker](https://github.com/romain-nicod/vibecoding-fasttracker) | Un kit de passation qui apprend à l'IA d'un débutant à tenir la méthode pendant qu'elle écrit le code |
 | [ereader-reencode](https://github.com/romain-nicod/ereader-reencode) | Réencode les livres illustrés pour qu'une liseuse E Ink tourne les pages sans ramer. Celui qui est là pour lui-même |
 
-Cinq sont sous licence MIT, un sous CC BY 4.0. C'est la méthode que je
-remettrais à un client, publiée intégralement.
+Les six sont sous CC BY 4.0 : réutilisez, adaptez, vendez ce que vous en tirez,
+et gardez le crédit visible. C'est la méthode que je remettrais à un client,
+publiée intégralement.
 
 ### Ailleurs
 
